@@ -15,3 +15,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Hallo, ich bin Frisscord
+
+![Banner](https://example.com/banner.png)
+
+## Über mich
+- 🔭 Ich arbeite an ...
+- 🌱 Ich lerne ...
+- 🚀 Ich interessiere mich für ...
+
+## Projekte
+- [Projekt 1](https://github.com/Frisscord/projekt1)
+- [Projekt 2](https://github.com/Frisscord/projekt2)
+
+## Soziale Medien
+- [Twitter](https://twitter.com/Frisscord)
+- [LinkedIn](https://linkedin.com/in/Frisscord)
+▋
