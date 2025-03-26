@@ -14,9 +14,6 @@
 ### My Programming Skills
 > [![My Skills](https://skillicons.dev/icons?i=py,html,css,lua,react,tailwind,sql)](https://google.com)
 
-### Upcoming Skills
-> [![Upcoming Skills](https://skillicons.dev/icons?i=js,java,cs,net)](https://google.com)
-
 ## 📨 Contact Me
 [![Contact](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/your_discord_id) <br>
 **Discord:** [@frisscord](https://discordapp.com/users/your_discord_id)
