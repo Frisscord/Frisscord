@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Friedrich (Fritz)
+# 👋 Hi, I'm Fritz
 
 ## 🙇 About Me
 > I'm a 15-year-old developer from Germany with 5 years of programming experience. I have explored various projects and languages, and I love learning new technologies.
